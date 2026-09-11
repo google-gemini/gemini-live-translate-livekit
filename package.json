@@ -14,7 +14,7 @@
     "@livekit/rtc-node": "^0.13.27",
     "livekit-client": "^2.19.0",
     "livekit-server-sdk": "^2.15.2",
-    "next": "16.2.6",
+    "next": "16.3.4",
     "qrcode.react": "^4.2.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
